@@ -5,3 +5,5 @@ node_modules/
 coverage/
 .eslintcache
 npm-debug.log
+.npmrc
+yarn-error.log
